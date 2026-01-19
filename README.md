@@ -3,10 +3,14 @@
 <!-- Animated stickers (top-right) -->
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlvN3ViZTVndzR6NDV5aTBhdnhldHUyZmt4M2RoZGthMnZnY2Z0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJNZr2JzGrxaMcJ4tg/giphy.gif"
      alt="Coding GIF" align="right" width="100" />
+     
+<!--   
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExano3YW1yMjliNmJiam42eTRwZHVrb2gwbTBjeW94ZnZpMWw4azczayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VBc6l3CqQonqo/giphy.gif"
      alt="Coding GIF" align="right" width="100" />
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjl6cjdsNmlzZGZsMGs5cnU4ODQwcGpnb3oyenA3Zm15M3Z4ZHg0ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qMA60yQ2fUkXzm7WD2/giphy.gif"
      alt="Coding GIF" align="right" width="100" />
+-->
+
 
 - 🔬 Interests: Computer Vision, Machine Learning, Visual Navigation
 - 🎯 Current goal: build solid projects & contribute to open-source
