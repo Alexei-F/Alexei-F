@@ -45,7 +45,6 @@
   <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"/></code>
   <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux"/></code>
   <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter"/></code>
-  <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/embedded/embedded.png" alt="stm32"/></code>
 </p>
 
 <h3>🏆 GitHub Stats</h3>
