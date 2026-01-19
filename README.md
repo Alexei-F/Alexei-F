@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8A47E&bg=%23121212&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Alexei+F.;🎉+Welcome+to+My+GitHub!;🤖+I'm+interested+in+Computer+Vision+and+ML;💬+Feel+free+to+reach+out!)
 
 <!-- Animated stickers (top-right) -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pmbjYwaHcxNXNhNGV5b3NlYnB1amh0N2c3eHAybWJxOXh1dDRyaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif"
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDgzbGJranB0cHc5Z3hvdGhxcTd1bzhocGtwa2ZkdHp1N2xxcjFzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uaUbYbkS6uV3mDu20u/giphy.gif"
      alt="Coding GIF" align="right" width="100" />
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpocXkwZDVxZ3B3M3R1c29ocDNsNGN5bDlodGdmaWhlemUyMXpoaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UIORmzXnDn8wTGvnXP/giphy.gif"
      alt="Coding GIF" align="right" width="100" />
