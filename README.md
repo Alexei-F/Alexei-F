@@ -39,9 +39,13 @@
 
 <p align="left" style="margin-top: 10px; margin-bottom: 20px;">
   <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"/></code>
+  <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="c"/></code>
+  <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="cpp"/></code>
+  <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" alt="rust"/></code>
   <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"/></code>
   <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux"/></code>
   <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter"/></code>
+  <code><img height="40" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/main/topics/embedded/embedded.png" alt="stm32"/></code>
 </p>
 
 <h3>🏆 GitHub Stats</h3>
