@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8A47E&bg=%23121212&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Alexei+F.;🎉+Welcome+to+My+GitHub!;🤖+I'm+interested+in+Computer+Vision+and+ML;💬+Feel+free+to+reach+out!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8A47E&bg=%23121212&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+AlexF.;🎉+Welcome+to+My+GitHub!;🤖+I'm+interested+in+Computer+Vision+and+ML;💬+Feel+free+to+reach+out!)
 
 <!-- Animated stickers (top-right) -->
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlvN3ViZTVndzR6NDV5aTBhdnhldHUyZmt4M2RoZGthMnZnY2Z0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJNZr2JzGrxaMcJ4tg/giphy.gif"
